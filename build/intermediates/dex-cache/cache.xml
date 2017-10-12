@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/Apple/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.3.1/support-annotations-25.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="/Users/Apple/Documents/Git/Brainalyze-master/AttentionTester/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.3.1_f00a6881eaee360f4c5490bb3566c4bcf9c059f4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Apple/Documents/Git/Brainalyze-master/AttentionTester/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.3.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="/Users/Apple/Documents/Git/Brainalyze-master/AttentionTester/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-25.3.1_6b832bd333f6b3ec8f7a77676ceaf9144233a45b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Apple/Documents/Git/Brainalyze-master/AttentionTester/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.3.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="/Users/Apple/Documents/Git/Brainalyze-master/AttentionTester/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-25.3.1_40627334876fe618298f399013e7e99f9b711104/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Apple/Documents/Git/Brainalyze-master/AttentionTester/build/intermediates/exploded-aar/com.android.support/support-compat/25.3.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="/Users/Apple/Documents/Git/Brainalyze-master/AttentionTester/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-25.3.1_6fa1bcbdc076688e4ccd14d36f030086a65b91bc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Apple/Documents/Git/Brainalyze-master/AttentionTester/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.3.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="/Users/Apple/Documents/Git/Brainalyze-master/AttentionTester/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-25.3.1_398df7b34ba266180d0c6292a8014d6c422f91fc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Apple/Documents/Git/Brainalyze-master/AttentionTester/build/intermediates/exploded-aar/com.android.support/support-fragment/25.3.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="/Users/Apple/Documents/Git/Brainalyze-master/AttentionTester/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-25.3.1_dc918bb434162b97be8061a974ac02e6ea0a4107/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Apple/Documents/Git/Brainalyze-master/AttentionTester/libs/libmuse_android.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="39ceeabf18cb8dc419db709a0fd4d26169a1126a">
+        <dex dex="/Users/Apple/Documents/Git/Brainalyze-master/AttentionTester/build/intermediates/transforms/dex/debug/folders/1000/2/libmuse_android_4819c971b2b25658b33966d2695251f4ef36e95f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Apple/Documents/Git/Brainalyze-master/AttentionTester/build/intermediates/exploded-aar/com.android.support/support-v4/25.3.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/Apple/Documents/Git/Brainalyze-master/AttentionTester/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-25.3.1_2b91da4a1976e6df278cc53e1ccc8d9b5f5327f5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Apple/Documents/Git/Brainalyze-master/AttentionTester/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="001872f4c513efdf00355f1d6497f7a09ef9b672">
+        <dex dex="/Users/Apple/Documents/Git/Brainalyze-master/AttentionTester/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_00fa0abadbf9f696f102e6a2370ef4bd29da5416/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Apple/Documents/Git/Brainalyze-master/AttentionTester/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8ca7c50b3737e6374ab23830b65ee15088508bcf">
+        <dex dex="/Users/Apple/Documents/Git/Brainalyze-master/AttentionTester/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_1ba382e7af16e0992f922053a34e02bff2b86b42/classes.dex" />
+    </item>
+
+</items>

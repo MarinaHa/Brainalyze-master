@@ -1,0 +1,7 @@
+#Thu Oct 12 21:16:38 CEST 2017
+base.0=/Users/Apple/Documents/Git/Brainalyze-master/AttentionTester/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_1ba382e7af16e0992f922053a34e02bff2b86b42
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/Users/Apple/Documents/Git/Brainalyze-master/AttentionTester/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_00fa0abadbf9f696f102e6a2370ef4bd29da5416/classes.dex
+base.1=/Users/Apple/Documents/Git/Brainalyze-master/AttentionTester/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_00fa0abadbf9f696f102e6a2370ef4bd29da5416
+file.0=/Users/Apple/Documents/Git/Brainalyze-master/AttentionTester/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_1ba382e7af16e0992f922053a34e02bff2b86b42/classes.dex
